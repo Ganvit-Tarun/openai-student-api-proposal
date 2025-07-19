@@ -22,7 +22,7 @@ Give students:
 
 ## 📎 Read the Full Proposal
 
-- ./Student_API_Proposal_Tarun_Ganvit.png
+- https://github.com/Ganvit-Tarun/openai-student-api-proposal/commit/3b2f460395557a68c3ed66047799eafbd2b840d7
 - https://drive.google.com/file/d/1t_-5RWQdS8xOo_W0sUdp0xZyLuIWIXUV/view?usp=sharing
 
 ## 🔒 Original Submission Date
