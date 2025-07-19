@@ -22,7 +22,7 @@ Give students:
 
 ## 📎 Read the Full Proposal
 
-- <img width="1024" height="1536" alt="Student_API_Proposal_Tarun_Ganvit" src="https://github.com/user-attachments/assets/362c3d6d-328d-4ea9-94aa-951f8e2fc96a" />
+- 
 
 - https://drive.google.com/file/d/1t_-5RWQdS8xOo_W0sUdp0xZyLuIWIXUV/view?usp=sharing
 
